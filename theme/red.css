@@ -1,0 +1,78 @@
+.headersection,.footersection{
+	background: #FF0000 none repeat scroll 0 0;
+}
+.icon a {
+	background: #a56e0a none repeat scroll 0 0;
+}
+.searchbtn input[type="text"]{
+	border: 1px solid #A56E0A;
+    background: #FFE07C;
+}
+.searchbtn input[type="submit"] {
+    border: 1px solid #9d6602;
+}
+input[type="submit"]{
+	background: #b7801c none repeat scroll 0 0;
+	border: 1px solid #9d6602;
+}
+.searchbtn input[type="submit"]:hover {
+    background: #b7801c none repeat scroll 0 0;
+    border: 1px solid #e6af4b;
+}
+.navsection {
+    background: none repeat scroll 0 0 #FF0070;
+}
+.navsection ul li{
+	border-left: 1px solid #fdc662;
+	border-right: 1px solid #c18a26;
+}
+.samepost h2 a{
+	color: #ac7511;
+}
+.maincontent {
+    background: #FF0070 none repeat scroll 0 0;
+}
+.samepost img {
+    background: #FF0139;
+    border: 1px solid #FF0070;
+}
+.contentsection {
+    border: 1px solid #FF0000;
+}
+.samesidebar h2 {
+    color: #333;
+}
+.sidebar {
+    background: #FF0070 none repeat scroll 0 0;
+    border: 1px solid red;
+}
+.samesidebar h2 {
+    background: #FF0139 none repeat scroll 0 0;
+    border-bottom: 2px solid #FF0070;
+    color: #333;
+}
+.readmore a {
+    border: 1px solid #b7801c;
+    color: #b7801c;
+}
+.pagination a {
+    background: #a6af4b none repeat scroll 0 0;
+    border: 1px solid #a7700c;
+    color: #333333;
+}
+.footermenu ul li a {
+    color: #E6AF4B;
+}
+.samepost h2, .about h2 {
+    color: #ac7511;
+}
+.relatedpost h2 {
+    background: #FF0139 none repeat scroll 0 0;
+    border-bottom: 2px solid #FF0070 !important;
+    color: #000 !important;
+}
+.popular img{
+    background: #FF0139;
+    border: 1px solid #FF0070;
+}
+

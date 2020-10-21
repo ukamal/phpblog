@@ -1,0 +1,102 @@
+.headersection,.footersection{
+	background: #0000FF none repeat scroll 0 0;
+}
+.icon a {
+	background: #0001B9 none repeat scroll 0 0;
+}
+.searchbtn input[type="text"]{
+	border: 1px solid #0000FF;
+    background: #0001B9;
+    color: #fff;
+}
+.searchbtn input[type="submit"] {
+    border: 1px solid #0000FF;
+}
+input[type="submit"]{
+	background: #0001B9 none repeat scroll 0 0;
+	border: 1px solid #9d6602;
+}
+.searchbtn input[type="submit"]:hover {
+    background: #0001B9 none repeat scroll 0 0;
+    border: 1px solid #0000FF;
+}
+.navsection {
+    background: none repeat scroll 0 0 #0001B9;
+}
+.navsection ul li{
+	border-left: 1px solid #fdc662;
+	border-right: 1px solid #c18a26;
+}
+.samepost h2 a{
+	color: #fff;
+}
+.maincontent {
+    background: #0001DD none repeat scroll 0 0;
+}
+.samepost img {
+    border: 1px solid #ebb450;
+}
+.contentsection {
+    border: 1px solid #0000FF;
+}
+.samesidebar h2 {
+    color: #333;
+}
+.sidebar {
+    background: #0001DD none repeat scroll 0 0;
+    border: 1px solid #ded4c5;
+}
+.samesidebar h2 {
+    background: #0001B9 none repeat scroll 0 0;
+    border-bottom: 2px solid #0000FF;
+    color: #fff;
+}
+.readmore a {
+    border: 1px solid #0000FF;
+    color: #0001B9;
+}
+.pagination a {
+    background: #0001B9 none repeat scroll 0 0;
+    border: 1px solid #0000FF;
+    color: #fff;
+}
+.footermenu ul li a {
+    color: #E6AF4B;
+}
+.samepost h2, .about h2 {
+    color: #fff;
+}
+.relatedpost h2 {
+    background: #0001B9 none repeat scroll 0 0;
+    border-bottom: 2px solid #0000FF !important;
+    color: #000 !important;
+}
+.about img {
+    background: #0001B9 none repeat scroll 0 0;
+    border: 1px solid #0000FF;
+}
+.samepost img {
+    border: 1px solid #0000FF;
+}
+.samepost img {
+    background: #0001B9 none repeat scroll 0 0;
+    border: 1px solid #0000FF;
+}
+.popular img{
+     background: #0001B9 none repeat scroll 0 0;
+    border: 1px solid #0000FF;
+}
+.navsection ul li a:hover, #active {
+    background: #000;
+    color: #fff;
+}
+
+.navsection ul li a:hover {
+    background: #000;
+    color: #fff;
+}
+.navsection ul li {
+    border-left: 1px solid #0000FF;
+    border-right: 1px solid #0000FF;
+}
+
